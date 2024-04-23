@@ -9,3 +9,6 @@ Dette er en enkel nettside for å bestille kinobilletter med kontaktinformasjon 
 gyldig informasjon programmet tar inn og lagrer i en liste på server. Dette er koblet opp mot en SQL-database med tabellen BILLETT. Her får vi oversikt over hvem som 
 har kjøpt og annen informasjon. Her blir listen over kjøpte billetter sortert på etternavn og blir skrevet ut deretter. Kan også slette alle billettene med knappen 
 "Slett billetter".
+
+Link til video: 
+https://www.youtube.com/watch?v=rHfESKRA80c 
